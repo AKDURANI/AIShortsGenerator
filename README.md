@@ -1,0 +1,2 @@
+# AIShortsGenerator
+AI Shorts Generator
