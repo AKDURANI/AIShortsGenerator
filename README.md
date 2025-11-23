@@ -132,4 +132,3 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-*Generated on $(date)*
